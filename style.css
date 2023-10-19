@@ -70,24 +70,20 @@ body {
     font-size: 14px;
     line-height: 28px;
     color: #7d7987;
-  
     margin: 40px 0;
   }
   
   button {
     color: white;
     font-family: "Open Sans", sans-serif;
-  
     background: #69B99D;
     border: 0;
     padding: 14px 32px 15px;
-  
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
     border-radius: 4px;
-  
     cursor: pointer;
   }
   
